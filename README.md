@@ -145,7 +145,7 @@ https://heroku.com/deploy?template=https://github.com/mmalmi/rod<br>
 
 #### Gun Relay 1-click Deploy<br>
 https://heroku.com/deploy?template=https://github.com/amark/gun<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amark/gun)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amark/gun) [![Join the chat at https://gitter.im/METAVERSE-GUN/community](https://badges.gitter.im/METAVERSE-GUN/community.svg)](https://gitter.im/METAVERSE-GUN/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### Gun Desktop Relay<br>
 https://github.com/worldpeaceenginelabs/ELECTRON-GUN
