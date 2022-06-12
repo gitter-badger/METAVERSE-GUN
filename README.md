@@ -29,7 +29,7 @@ Done
 # CesiumJS
 See CesiumJS live in action: https://sandcastle.cesium.com/
 
-![image](https://user-images.githubusercontent.com/67427045/173236905-a4cd270b-17a6-44e9-b26c-9532c7f4ea7f.png)
+![image](https://user-images.githubusercontent.com/67427045/173238829-45116578-d4d1-4836-9254-b8628ad70ba0.png)
 
 
 ## 3D geospatial visualization for the web
