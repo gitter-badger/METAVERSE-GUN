@@ -23,11 +23,15 @@ Done
 
 # Mockup
 
+#### Not an IT person? No worries, we got your back!
+#### Templates and UI are on its way, so you can start being creative without being a professional!
+<br>
+
 ![image](https://user-images.githubusercontent.com/67427045/173241082-23ccef19-f5fe-433a-ba30-b83765940d7a.png)
 <br><br><br>
 
 # CesiumJS
-See CesiumJS live in action: https://sandcastle.cesium.com/
+### See CesiumJS live in action: https://sandcastle.cesium.com/
 
 ![image](https://user-images.githubusercontent.com/67427045/173238912-ef698643-d541-4c16-91da-34a507367fd5.png)
 
@@ -54,7 +58,7 @@ Built on open standards and APIs, Cesium for Unreal combines the 3D geospatial c
 
 # Iris Messenger
 
-See Iris Messenger live in action: https://iris.to/
+### See Iris Messenger live in action: https://iris.to/
 
 **Want social media where _you_ decide what gets into your feed, not some obscure algorithm? Something that can't be censored by authoritarian governments? No big tech companies that decide what you can post, what gets visibility and who gets to have an account? Yet no harassing troll accounts, spam or ads? Something that works locally even if ISPs are unavailable in an emergency situation?**
 
