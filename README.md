@@ -1,6 +1,7 @@
 # METAVERSE-GUN (Iris Messenger + CesiumJS)
 ### aka "The Seed" aka "World Seed"
 
+#### (12.06.2022 3PM, Europe)
 I am about to add CesiumJS, to make the Mockup a reality. But i am a beginner, so i added an instruction, so you can do it yourself, since you are sure faster then me ;)
 
 https://github.com/worldpeaceenginelabs/METAVERSE-GUN/blob/master/add-cesiumjs.js
