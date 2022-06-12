@@ -24,7 +24,8 @@ Done
 # Mockup Starterkit
 
 #### Not an IT person? No worries, we got your back!
-#### Templates and UI are on its way, so you can start being creative without being a professional!
+#### Templates and UI are on its way, so you can start being creative, even without being a professional!
+#### But we will also not hold you back from using the professional tools. Every user has the same rights, at no cost!
 <br>
 
 ![image](https://user-images.githubusercontent.com/67427045/173241082-23ccef19-f5fe-433a-ba30-b83765940d7a.png)
