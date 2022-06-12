@@ -116,7 +116,19 @@ GUN enables subscription to data changes, so message feeds and identity profiles
 
 [WEBTORRENT](https://github.com/webtorrent/webtorrent) is used to store file attachments and message backups.
 
+## Need a relay?
 
+#### ROD - Rust Object Database (non-wasm rust port of gun)<br>
+The decentralized METAVERSE-GUN syncs over ROD peers by default.<br>
+https://heroku.com/deploy?template=https://github.com/mmalmi/rod<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mmalmi/rod)
+
+#### Gun Relay 1-click Deploy<br>
+https://heroku.com/deploy?template=https://github.com/amark/gun<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amark/gun)
+
+#### Gun Desktop Relay<br>
+https://github.com/worldpeaceenginelabs/ELECTRON-GUN
 
 ## Improving decentralisation
 Currently the weak point of Iris's decentralisation is the list of initial peers, which could easily be blocked by governments or ISPs. By default, the application connects to IPFS default peers and a couple GUN peers. You can always add peers manually on the [settings page](https://irislib.github.io/#settings), but that is cumbersome for the average user.
