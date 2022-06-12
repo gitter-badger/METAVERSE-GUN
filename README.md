@@ -33,7 +33,7 @@ Done
 # Mockup of Live Coding Console with hot reloading
 ### Every example you can do in Cesium Sandcastle and more...
 
-![image](https://user-images.githubusercontent.com/67427045/173247560-11da64a0-e395-4eaa-ae9d-eb543604d7da.png)
+![image](https://user-images.githubusercontent.com/67427045/173247869-930769d0-fd2e-43e7-8026-932932529ca7.png)
 <br><br><br>
 
 # CesiumJS
