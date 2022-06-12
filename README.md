@@ -130,6 +130,8 @@ https://heroku.com/deploy?template=https://github.com/amark/gun<br>
 #### Gun Desktop Relay<br>
 https://github.com/worldpeaceenginelabs/ELECTRON-GUN
 
+![image](https://user-images.githubusercontent.com/67427045/173242532-9c32af8a-a8ad-4ed5-9311-0a2e2e74117e.png)
+
 ## Improving decentralisation
 Currently the weak point of Iris's decentralisation is the list of initial peers, which could easily be blocked by governments or ISPs. By default, the application connects to IPFS default peers and a couple GUN peers. You can always add peers manually on the [settings page](https://irislib.github.io/#settings), but that is cumbersome for the average user.
 
