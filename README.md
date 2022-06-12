@@ -45,7 +45,7 @@ Built on open formats, CesiumJS is designed for robust interoperability and scal
 - Visualize and analyze on a high-precision WGS84 globe
 - Share with users on desktop or mobile
 
-## Bring the real world to Unreal Engine 5 (web and desktop app, game, software, vr, webvr...)
+## Bring the real world to Unreal Engine 5 and then back into the real world (web and desktop app, game, software, vr, webvr...)
 ![image](https://user-images.githubusercontent.com/67427045/173237155-12699b40-f737-41a5-83c5-019fc8b63736.png)
 
 Built on open standards and APIs, Cesium for Unreal combines the 3D geospatial capability of Cesium with the high-fidelity rendering power of Unreal Engine, unlocking the 3D geospatial ecosystem for game engines.
