@@ -2,7 +2,7 @@
 ### aka "The Seed" aka "World Seed"
 ![Metaverse-Gun](https://user-images.githubusercontent.com/67427045/173232351-703fa1f3-f4e8-4635-be37-a903af958459.png)
 <br><br><br>
-![image](https://user-images.githubusercontent.com/67427045/173237388-49d24a4d-cce2-46f7-8baa-87b400f740a8.png)
+![image](https://user-images.githubusercontent.com/67427045/173239465-dda15148-68cd-4e92-9432-026c079ac70d.png)
 
 <br><br><br>
 #### (12.06.2022 3PM, Europe)
