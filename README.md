@@ -5,8 +5,12 @@ I am about to add CesiumJS, to make the Mockup a reality. But i am a beginner, s
 
 https://github.com/worldpeaceenginelabs/METAVERSE-GUN/blob/master/add-cesiumjs.js
 
-Its copy-pasting 2 lines of code in index.html, and copy-pasting a snippet into the related js file of this METAVERSE-GUN repo (which is a clean Iris fork for now),
-and then adding Cesium under the Home Button, and whats now under the Iris Home button, as a new button under the Cesium Homebutton. Done
+Its copy-pasting 2 lines of code in index.html, and copy-pasting a snippet into the related js file of this METAVERSE-GUN repo (which is a clean Iris fork for now),<br>
+and then adding Cesium under the Home Button, and whats now under the Iris Home button, as a new button under the Cesium Homebutton.
+
+Then npm i cesium.
+
+Done
 
 ![Metaverse-Gun](https://user-images.githubusercontent.com/67427045/173232351-703fa1f3-f4e8-4635-be37-a903af958459.png)
 
