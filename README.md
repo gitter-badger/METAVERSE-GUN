@@ -7,7 +7,7 @@
 <br><br><br>
 #### (12.06.2022 3PM, Europe)
 I am about to add CesiumJS, to make the Mockup Starterkit a reality.<br>
-But i am not as fast, so i added an instruction, so you can do it yourself, since you are sure faster then me ;)
+But i am not as fast, so i added an instruction, so you can do it yourself, and dont have to wait for me ;)
 
 https://github.com/worldpeaceenginelabs/METAVERSE-GUN/blob/master/add-cesiumjs.js
 
