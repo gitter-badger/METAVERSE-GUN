@@ -23,7 +23,7 @@ Done
 
 # Mockup
 
-![image](https://user-images.githubusercontent.com/67427045/173230759-c809907b-c88b-46d6-a7eb-6d0f207635e8.png)
+![image](https://user-images.githubusercontent.com/67427045/173241082-23ccef19-f5fe-433a-ba30-b83765940d7a.png)
 <br><br><br>
 
 # CesiumJS
