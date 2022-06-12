@@ -6,7 +6,7 @@
 
 <br><br><br>
 #### (12.06.2022 3PM, Europe)
-I am about to add CesiumJS, to make the Mockup a reality. But i am a beginner, so i added an instruction, so you can do it yourself, since you are sure faster then me ;)
+I am about to add CesiumJS, to make the Mockup Starterkit a reality. But i am a beginner, so i added an instruction, so you can do it yourself, since you are sure faster then me ;)
 
 https://github.com/worldpeaceenginelabs/METAVERSE-GUN/blob/master/add-cesiumjs.js
 
@@ -35,6 +35,7 @@ Done
 ### Every example you can do in Cesium Sandcastle and more...
 
 ![image](https://user-images.githubusercontent.com/67427045/173247869-930769d0-fd2e-43e7-8026-932932529ca7.png)
+
 <br><br><br>
 
 # CesiumJS
@@ -52,7 +53,12 @@ Built on open formats, CesiumJS is designed for robust interoperability and scal
 - Visualize and analyze on a high-precision WGS84 globe
 - Share with users on desktop or mobile
 
+<br>
+
 ## Bring the real world to Unreal Engine 5 and then back into the real world (web and desktop app, game, software, vr, webvr...)
+
+### See Cesium for Unreal in action: https://cesium.com/platform/cesium-for-unreal/ (video)
+
 ![image](https://user-images.githubusercontent.com/67427045/173237155-12699b40-f737-41a5-83c5-019fc8b63736.png)
 
 Built on open standards and APIs, Cesium for Unreal combines the 3D geospatial capability of Cesium with the high-fidelity rendering power of Unreal Engine, unlocking the 3D geospatial ecosystem for game engines.
@@ -62,6 +68,8 @@ Built on open standards and APIs, Cesium for Unreal combines the 3D geospatial c
 - Visualize massive high-resolution real-world photogrammetry and 3D content at runtime using 3D Tiles
 - Integrated with Unreal Engine Editor, Actors and Components, Blueprints, and other UE features to enable a high degree of interactivity, physical realism, and photorealism to create amazing experiences
 - Optional subscription to Cesium ion for one-click access to global curated 3D content including terrain, imagery, 3D cities, and photogrammetry
+
+<br><br><br>
 
 # Iris Messenger
 
