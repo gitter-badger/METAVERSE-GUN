@@ -1,6 +1,10 @@
 # METAVERSE-GUN (Iris Messenger + CesiumJS)
 ### aka "The Seed" aka "World Seed"
+![Metaverse-Gun](https://user-images.githubusercontent.com/67427045/173232351-703fa1f3-f4e8-4635-be37-a903af958459.png)
+<br><br><br>
+![image](https://user-images.githubusercontent.com/67427045/173237388-49d24a4d-cce2-46f7-8baa-87b400f740a8.png)
 
+<br><br><br>
 #### (12.06.2022 3PM, Europe)
 I am about to add CesiumJS, to make the Mockup a reality. But i am a beginner, so i added an instruction, so you can do it yourself, since you are sure faster then me ;)
 
@@ -15,12 +19,18 @@ Done
 
 ### Feel free to open a pull-request. Thx in advance!
 
-![Metaverse-Gun](https://user-images.githubusercontent.com/67427045/173232351-703fa1f3-f4e8-4635-be37-a903af958459.png)
+<br><br><br>
+
+# Mockup
 
 ![image](https://user-images.githubusercontent.com/67427045/173230759-c809907b-c88b-46d6-a7eb-6d0f207635e8.png)
+<br><br><br>
 
 # CesiumJS
 See CesiumJS live in action: https://sandcastle.cesium.com/
+
+![image](https://user-images.githubusercontent.com/67427045/173236905-a4cd270b-17a6-44e9-b26c-9532c7f4ea7f.png)
+
 
 ## 3D geospatial visualization for the web
 CesiumJS is an open source JavaScript library for creating world-class 3D globes and maps with the best possible performance, precision, visual quality, and ease of use. Developers across industries, from aerospace to smart cities to drones, use CesiumJS to create interactive web apps for sharing dynamic geospatial data.
@@ -31,7 +41,9 @@ Built on open formats, CesiumJS is designed for robust interoperability and scal
 - Visualize and analyze on a high-precision WGS84 globe
 - Share with users on desktop or mobile
 
-## Bring the real world to Unreal Engine (web and desktop app, game, software, vr, webvr...)
+## Bring the real world to Unreal Engine 5 (web and desktop app, game, software, vr, webvr...)
+![image](https://user-images.githubusercontent.com/67427045/173237155-12699b40-f737-41a5-83c5-019fc8b63736.png)
+
 Built on open standards and APIs, Cesium for Unreal combines the 3D geospatial capability of Cesium with the high-fidelity rendering power of Unreal Engine, unlocking the 3D geospatial ecosystem for game engines.
 
 - Free and open source visualization plugin
@@ -102,7 +114,9 @@ The task of data storage and networking is outsourced to [GUN](https://github.co
 
 GUN enables subscription to data changes, so message feeds and identity profiles just update real-time without having to hit f5 or writing complex update logic.
 
-[IPFS](https://ipfs.io) is used to store file attachments and message backups.
+[WEBTORRENT](https://github.com/webtorrent/webtorrent) is used to store file attachments and message backups.
+
+
 
 ## Improving decentralisation
 Currently the weak point of Iris's decentralisation is the list of initial peers, which could easily be blocked by governments or ISPs. By default, the application connects to IPFS default peers and a couple GUN peers. You can always add peers manually on the [settings page](https://irislib.github.io/#settings), but that is cumbersome for the average user.
