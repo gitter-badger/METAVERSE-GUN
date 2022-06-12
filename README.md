@@ -21,13 +21,19 @@ Done
 
 <br><br><br>
 
-# Mockup
+# Mockup Starterkit
 
 #### Not an IT person? No worries, we got your back!
 #### Templates and UI are on its way, so you can start being creative without being a professional!
 <br>
 
 ![image](https://user-images.githubusercontent.com/67427045/173241082-23ccef19-f5fe-433a-ba30-b83765940d7a.png)
+<br><br><br>
+
+# Mockup of Live Coding Console with hot reloading
+### Every example you can do in Cesium Sandcastle and more...
+
+![image](https://user-images.githubusercontent.com/67427045/173247560-11da64a0-e395-4eaa-ae9d-eb543604d7da.png)
 <br><br><br>
 
 # CesiumJS
