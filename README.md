@@ -12,6 +12,8 @@ Then npm i cesium.
 
 Done
 
+### Feel free to open a pull-request. Thx in advance!
+
 ![Metaverse-Gun](https://user-images.githubusercontent.com/67427045/173232351-703fa1f3-f4e8-4635-be37-a903af958459.png)
 
 ![image](https://user-images.githubusercontent.com/67427045/173230759-c809907b-c88b-46d6-a7eb-6d0f207635e8.png)
